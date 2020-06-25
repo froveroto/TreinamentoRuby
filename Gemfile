@@ -10,3 +10,4 @@ gem 'rest-client'
 gem 'json'
 gem 'pry'
 gem 'httparty'
+gem "rack", ">= 2.2.3"
